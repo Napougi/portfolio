@@ -26,12 +26,12 @@ Experience with multiplayer level design, modding APIs, and iterative gameplay d
 
 ---
 
-## 🔧 Database Manager (Java)
+## Database Manager (Java)
 
 **Role:** Software Developer  
 **Tools:** Java, PostgreSQL, JDBC, JUnit  
 
-- Built a database-backed Java application with custom queries
+- Built a database-backed Java application with custom queries with a focus on object oriented design
 - Wrote 15+ unit tests for reliability
 - Designed UML diagrams and modular architecture
 
