@@ -1,4 +1,4 @@
-# Jason Nguyen — Portfolio
+# Uika Nguyen — Portfolio
 
 Software Engineering student.
 Experience with multiplayer level design, modding APIs, and iterative gameplay development.
@@ -36,3 +36,26 @@ Experience with multiplayer level design, modding APIs, and iterative gameplay d
 - Designed UML diagrams and modular architecture
 
 **As this was a School project I will not be making the code public**
+
+## Gemini Recipe Website
+
+**Role:** Software Developer
+**Tools:** Supabase, Typescript, Node.js
+
+- Created Database using supabase to hold users and their recipes, along with functions to operate on the data within the database
+- Integrated Database into Website with typescript components
+- Pulled data from external MealDB API
+
+[**Github Repo Link:**](https://github.com/Haroldmin1028/ENSF400-CourseProject)
+
+## UN Development Goal Game
+
+**Role:** Software Developer
+**Tools:** Supabase, Unity, C#, SQL, REST API
+
+- Created database to store users and their multiple saved games.
+- Created and integrated functions for use in unity to operate on data within database.
+- Used Access tokens to handle Users.
+
+**Note this was worked on under another github account for school**
+[**Github Repo Link:**](https://github.com/Munch42/SENG-401-GameProject)
